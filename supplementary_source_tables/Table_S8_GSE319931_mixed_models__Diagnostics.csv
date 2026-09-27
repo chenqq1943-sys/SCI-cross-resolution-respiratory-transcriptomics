@@ -1,0 +1,6 @@
+﻿Program / Score,Diagnostics,Leave-one-animal-out direction flips
+"GSE319931 chronic SCI regional models; 4 biological animals, 3 repeated regions per animal.",,
+ComplexI_assembly  /  A ---,singular_fit: FALSE; max_scaled_residual_animal: 4,direction-flip animal/contrast: none
+ComplexI_assembly  /  B ---,singular_fit: FALSE; max_scaled_residual_animal: 3,direction-flip animal/contrast: none
+Aerobic_respiration  /  A ---,singular_fit: FALSE; max_scaled_residual_animal: 3,direction-flip animal/contrast: 3/E-A
+Aerobic_respiration  /  B ---,singular_fit: FALSE; max_scaled_residual_animal: 3,direction-flip animal/contrast: none

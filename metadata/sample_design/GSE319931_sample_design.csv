@@ -1,0 +1,17 @@
+sample,GSM,animal,condition,region,paired_structure
+WT-UI_sample-1_GeneCount,GSM9529558,,Uninjured,Whole9mm,FALSE
+WT-UI_sample-2_GeneCount,GSM9529559,,Uninjured,Whole9mm,FALSE
+WT-UI_sample-3_GeneCount,GSM9529560,,Uninjured,Whole9mm,FALSE
+WT-UI_sample-4_GeneCount,GSM9529561,,Uninjured,Whole9mm,FALSE
+WT-A_sample-1_GeneCount,GSM9529562,1,SCI,Above,TRUE
+WT-A_sample-2_GeneCount,GSM9529563,2,SCI,Above,TRUE
+WT-A_sample-3_GeneCount,GSM9529564,3,SCI,Above,TRUE
+WT-A_sample-4_GeneCount,GSM9529565,4,SCI,Above,TRUE
+WT-E_sample-1_GeneCount,GSM9529566,1,SCI,Epicenter,TRUE
+WT-E_sample-2_GeneCount,GSM9529567,2,SCI,Epicenter,TRUE
+WT-E_sample-3_GeneCount,GSM9529568,3,SCI,Epicenter,TRUE
+WT-E_sample-4_GeneCount,GSM9529569,4,SCI,Epicenter,TRUE
+WT-B_sample-1_GeneCount,GSM9529570,1,SCI,Below,TRUE
+WT-B_sample-2_GeneCount,GSM9529571,2,SCI,Below,TRUE
+WT-B_sample-3_GeneCount,GSM9529572,3,SCI,Below,TRUE
+WT-B_sample-4_GeneCount,GSM9529573,4,SCI,Below,TRUE

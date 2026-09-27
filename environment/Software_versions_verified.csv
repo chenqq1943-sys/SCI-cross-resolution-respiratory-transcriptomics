@@ -1,0 +1,31 @@
+Dataset,Software_or_package,Version,Purpose,Provenance_source
+GSE5296,R,4.6.1,Runtime,GSE5296_RMA_sessionInfo.txt
+GSE5296,Bioconductor,3.23,Repo version,GSE5296_RMA_sessionInfo.txt
+GSE5296,affy,1.90.0,CEL read + standard RMA,GSE5296_RMA_sessionInfo.txt
+GSE5296,affyPLM,1.88.0,RLE/NUSE QC (fitPLM),GSE5296_RMA_sessionInfo.txt
+GSE5296,preprocessCore,1.74.0,RMA backend,GSE5296_RMA_sessionInfo.txt
+GSE5296,gcrma,2.84.0,Loaded (not used for primary RMA),GSE5296_RMA_sessionInfo.txt
+GSE5296,Biobase,2.72.0,Core infrastructure,GSE5296_RMA_sessionInfo.txt
+GSE5296,BiocGenerics,0.58.1,Core infrastructure,GSE5296_RMA_sessionInfo.txt
+GSE5296,affyio,1.82.0,CEL parsing,GSE5296_RMA_sessionInfo.txt
+GSE5296,GSVA,2.6.6,ssGSEA (ssgseaParam+gsva),_run_gse5296_replication.R comment (no sessionInfo for replication run; version from script comment)
+GSE5296,org.Mm.eg.db,Not recorded,GO2EG mouse gene mapping,_run_gse5296_replication.R (version not captured)
+GSE5296,GO.db,Not recorded,GO term resolution,_run_gse5296_replication.R (version not captured)
+GSE5296,AnnotationDbi,Not recorded,select() mapping,_run_gse5296_replication.R (version not captured)
+GSE234774_snRNA,R,4.6.1,Runtime,_phase2c_corrected_run.txt / corrected sessionInfo
+GSE234774_snRNA,edgeR,4.10.5,DGEList/filterByExpr/TMM/logCPM,_phase2c_corrected_run.txt
+GSE234774_snRNA,limma,3.68.5,cpm(log=TRUE) backend,_phase2c_corrected_run.txt
+GSE234774_snRNA,Python,3.14.7,Full-transcriptome pseudobulk rebuild,_rebuild_full_pseudobulk.py env
+GSE234774_snRNA,numpy,2.5.3,Matrix aggregation,_rebuild_full_pseudobulk.py env
+GSE234774_snRNA,scipy,1.18.1,Sparse matrix,_rebuild_full_pseudobulk.py env
+GSE234774_spatial,Python,3.14.7,Runtime,Phase2D_spatial_pilot/sessionInfo.txt
+GSE234774_spatial,numpy,2.5.3,Scoring/matrix,Phase2D_spatial_pilot/sessionInfo.txt
+GSE234774_spatial,scipy,1.18.1,mmread/sparse/rank score,Phase2D_spatial_pilot/sessionInfo.txt
+GSE234774_spatial,matplotlib,3.11.2,Figures,Phase2D_spatial_pilot/sessionInfo.txt
+GSE319931,R,4.6.1,Runtime,GSE319931_sessionInfo.txt / mixed sessionInfo
+GSE319931,edgeR,4.10.5,DGEList/filterByExpr/TMM/logCPM,GSE319931_sessionInfo.txt
+GSE319931,limma,3.68.5,cpm backend,GSE319931_sessionInfo.txt
+GSE319931,lme4,2.0-6,Mixed model (score~region+(1|animal)),GSE319931_mixed_model_sessionInfo.txt
+GSE319931,lmerTest,3.2-1,Satterthwaite omnibus,GSE319931_mixed_model_sessionInfo.txt
+GSE319931,emmeans,2.0.4,Contrasts (E-A E-B A-B),GSE319931_mixed_model_sessionInfo.txt
+GSE319931,Matrix,1.7-5,lme4 dependency,GSE319931_mixed_model_sessionInfo.txt

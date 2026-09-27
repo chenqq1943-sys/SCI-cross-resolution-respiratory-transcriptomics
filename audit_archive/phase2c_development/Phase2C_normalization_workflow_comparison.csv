@@ -1,0 +1,8 @@
+﻿Item,Original Phase 2C workflow (superseded),Corrected full-transcriptome workflow
+Counts entering DGEList,Target-gene-only (71 respiratory genes),"Full-transcriptome (26,918 genes)"
+Library size (edgeR lib.size),colSums of target-only matrix (target UMI),"colSums of full-transcriptome matrix == nCount_RNA sum (verified, max|diff|=0)"
+TMM estimation stage,from target-only matrix,from filtered full-transcriptome matrix
+Target-gene extraction,before DGEList/normalization,only AFTER filtering + TMM (29/30 + 49/53)
+Filtering,n/a,"filterByExpr(group=celltype), 26,918 -> 15,785 retained"
+logCPM prior.count,3,3
+Inference status,SUPERSEDED / INVALID FOR INFERENCE (audit: FAIL - target-gene-only library sizes),ONLY valid version - all manuscript snRNA results derive from this

@@ -1,0 +1,9 @@
+﻿Procedure,Final manuscript inference workflow
+Input,Full-transcriptome pseudobulk count matrix
+Input genes,26918
+Expression filtering,edgeR::filterByExpr
+Genes retained,15785
+Normalization,TMM normalization followed by logCPM
+logCPM prior.count,3
+Target extraction,After filtering and normalization
+Final availability,Complex I assembly 29/30; aerobic respiration 49/53

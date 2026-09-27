@@ -1,0 +1,9 @@
+GSE234774 2D Visium Phase 2D spatial pilot - environment
+python 3.14.7 (main, Aug 25 2026, 14:01:25) [MSC v.1944 64 bit (AMD64)]
+numpy 2.5.3
+scipy 1.18.1
+matplotlib 3.11.2
+methodA: mean standardized expression (per-gene z across all spots, averaged over program genes)
+methodB: rank-based fractional-rank gene-set score (per spot, rank relative to all genes, ties=average)
+normalization: log1p(counts / spot_total_UMI * 10000)
+thresholds: low=10th, high=90th percentile of uninjured spot scores (per program x method)

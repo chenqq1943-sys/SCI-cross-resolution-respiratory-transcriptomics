@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+title: "Cross-resolution transcriptomic analysis reveals scale-dependent mitochondrial respiratory transcriptional remodeling after spinal cord injury"
+version: 1.1
+date-released: 2026-09-27
+authors:
+  - family-names: Chen
+    given-names: Zhaohui
+  - family-names: Li
+    given-names: Yong
+keywords:
+  - spinal cord injury
+  - transcriptomics
+  - mitochondrial respiration
+  - pseudobulk
+  - spatial transcriptomics

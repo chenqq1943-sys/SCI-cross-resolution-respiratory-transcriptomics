@@ -1,0 +1,6 @@
+"check","status","detail"
+"colSums==cold$full_total_UMI","PASS","max|diff|=0"
+"cold$full==meta_nCount","PASS",""
+"n_samples","77","77 samples"
+"n_genes","26918","26918 genes"
+"77 samples documented (80-3 missing Microglia 1d_2/1d_8/4d_6)","OK","77 = 20 libs x 4 celltypes (80) - 3 absent Microglia combos"

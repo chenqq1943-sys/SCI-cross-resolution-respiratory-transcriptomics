@@ -1,0 +1,13 @@
+﻿Program,Score,"Comparison (EXPLORATORY - not region-matched, whole 9mm UI)",UI mean,SCI region mean,Delta,Direction,n injured below UI median / n,Welch P
+ComplexI_assembly,GSE319931 MeanZ,Above vs UI,0.43359,0.38464,-0.04895,down,2/4,0.84285
+ComplexI_assembly,GSE319931 MeanZ,Epicenter vs UI,0.43359,-0.15634,-0.58993,down,4/4,0.16307
+ComplexI_assembly,GSE319931 MeanZ,Below vs UI,0.43359,-0.66189,-1.09548,down,4/4,0.02436
+ComplexI_assembly,GSE319931 Eigengene,Above vs UI,3.57245,3.00472,-0.56773,down,2/4,0.58143
+ComplexI_assembly,GSE319931 Eigengene,Epicenter vs UI,3.57245,-2.41051,-5.98296,down,4/4,0.04534
+ComplexI_assembly,GSE319931 Eigengene,Below vs UI,3.57245,-4.16666,-7.73911,down,4/4,0.03037
+Aerobic_respiration,GSE319931 MeanZ,Above vs UI,0.22791,0.33786,0.10995,up,2/4,0.6048
+Aerobic_respiration,GSE319931 MeanZ,Epicenter vs UI,0.22791,0.15242,-0.0755,down,1/4,0.85772
+Aerobic_respiration,GSE319931 MeanZ,Below vs UI,0.22791,-0.71819,-0.9461,down,4/4,0.03332
+Aerobic_respiration,GSE319931 Eigengene,Above vs UI,3.56209,3.29408,-0.26801,down,2/4,0.87303
+Aerobic_respiration,GSE319931 Eigengene,Epicenter vs UI,3.56209,-0.87815,-4.44024,down,4/4,0.2361
+Aerobic_respiration,GSE319931 Eigengene,Below vs UI,3.56209,-5.97802,-9.54011,down,4/4,0.03678

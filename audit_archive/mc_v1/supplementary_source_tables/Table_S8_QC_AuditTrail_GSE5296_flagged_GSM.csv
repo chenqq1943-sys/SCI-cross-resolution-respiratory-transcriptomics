@@ -1,0 +1,6 @@
+﻿GSE5296 flagged GSM,Group (region/treatment/time),QC reason (from GSE5296_QC_summary.csv),Retained in primary,Excluded in sensitivity,Effect on direction
+GSM119774,I/I/72h,OK ; PCA_DIST_OUTLIER,Retained (primary),Excluded (sensitivity),Impact 72h not evaluable in sensitivity (insufficient group after exclusion)
+GSM119781,A/S/24h,POSSIBLE_TECHNICAL_OUTLIER (NUSE/RLE),Retained (primary),Excluded (sensitivity),No direction change in evaluable comparisons
+GSM119790,I/I/72h,OK ; PCA_DIST_OUTLIER,Retained (primary),Excluded (sensitivity),Impact 72h not evaluable in sensitivity (insufficient group after exclusion)
+GSM119807,I/S/24h,POSSIBLE_TECHNICAL_OUTLIER (NUSE/RLE),Retained (primary),Excluded (sensitivity),No direction change in evaluable comparisons
+GSM119817,I/I/72h,OK ; PCA_DIST_OUTLIER,Retained (primary),Excluded (sensitivity),Impact 72h not evaluable in sensitivity (insufficient group after exclusion)

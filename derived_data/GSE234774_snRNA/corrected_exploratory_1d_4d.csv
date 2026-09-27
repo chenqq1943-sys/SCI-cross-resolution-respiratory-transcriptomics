@@ -1,0 +1,33 @@
+"celltype","program","method","time","n_control","n_injured","control_mean","injured_mean","delta","direction","effect_size","nominal_p","replicate_consistency","status","note","adjusted_p"
+"Neurons","ComplexI_assembly","A","1d",3,3,0.139792330956055,-0.222205401638339,-0.361997732594394,"down",-3.40546140505644,0.0140443053310167,"3/3","Evaluable","",NA
+"Neurons","ComplexI_assembly","A","4d",3,3,0.139792330956055,-0.17925812568622,-0.319050456642274,"down",-3.08052197038716,0.0195769811118706,"3/3","Evaluable","",NA
+"Neurons","ComplexI_assembly","B","1d",3,3,-2.89789592818283,4.84837461039935,7.74627053858218,"up",2.11649038172333,0.114422575507595,"3/3","Evaluable","",NA
+"Neurons","ComplexI_assembly","B","4d",3,3,-2.89789592818283,3.8684533931414,6.76634932132423,"up",2.82377054334426,0.0597962056714246,"3/3","Evaluable","",NA
+"Neurons","Aerobic_respiration","A","1d",3,3,-0.305963594649838,0.303281558017227,0.609245152667065,"up",2.42997456673033,0.0495603951850495,"3/3","Evaluable","",NA
+"Neurons","Aerobic_respiration","A","4d",3,3,-0.305963594649838,0.563090906501091,0.869054501150929,"up",1.90217668009768,0.102129313224796,"3/3","Evaluable","",NA
+"Neurons","Aerobic_respiration","B","1d",3,3,-3.45924353632881,5.28624258566062,8.74548612198943,"up",1.87268479707556,0.1300143279827,"3/3","Evaluable","",NA
+"Neurons","Aerobic_respiration","B","4d",3,3,-3.45924353632881,5.97725693199555,9.43650046832436,"up",2.07799228769871,0.106693143627232,"3/3","Evaluable","",NA
+"Astrocytes","ComplexI_assembly","A","1d",3,3,0.0240897245746169,0.0109353418189656,-0.0131543827556513,"down",-0.0258109709470799,0.976300102548241,"1/3","Evaluable","",NA
+"Astrocytes","ComplexI_assembly","A","4d",3,3,0.0240897245746169,-0.312129923270089,-0.336219647844706,"down",-0.94378878661634,0.360991183681598,"3/3","Evaluable","",NA
+"Astrocytes","ComplexI_assembly","B","1d",3,3,-5.82936627978979,1.75224233234645,7.58160861213624,"up",4.74533799519653,0.0112636645985531,"3/3","Evaluable","",NA
+"Astrocytes","ComplexI_assembly","B","4d",3,3,-5.82936627978979,3.65927045702798,9.48863673681777,"up",6.49855434663491,0.0129488002397033,"3/3","Evaluable","",NA
+"Astrocytes","Aerobic_respiration","A","1d",3,3,-0.773979656629958,0.265486733410552,1.03946639004051,"up",2.26685820431195,0.0633404104766371,"3/3","Evaluable","",NA
+"Astrocytes","Aerobic_respiration","A","4d",3,3,-0.773979656629958,0.259726700770959,1.03370635740092,"up",4.07824089082995,0.0196970306496564,"3/3","Evaluable","",NA
+"Astrocytes","Aerobic_respiration","B","1d",3,3,-8.74887252313018,3.6357832744937,12.3846557976239,"up",4.21707786846159,0.00670621244496092,"3/3","Evaluable","",NA
+"Astrocytes","Aerobic_respiration","B","4d",3,3,-8.74887252313018,3.96449561204819,12.7133681351784,"up",5.33099952646843,0.00732738571664539,"3/3","Evaluable","",NA
+"Oligodendrocyte_combined","ComplexI_assembly","A","1d",3,3,0.211543617864816,0.0360758778499865,-0.175467740014829,"down",-0.271726891436216,0.760832139575358,"2/3","Evaluable","",NA
+"Oligodendrocyte_combined","ComplexI_assembly","A","4d",3,3,0.211543617864816,0.0045524000268605,-0.206991217837955,"down",-0.517187042033655,0.561632211434955,"1/3","Evaluable","",NA
+"Oligodendrocyte_combined","ComplexI_assembly","B","1d",3,3,-2.8699013180382,4.73401375079727,7.60391506883547,"up",3.59939079815158,0.0188066770426321,"3/3","Evaluable","",NA
+"Oligodendrocyte_combined","ComplexI_assembly","B","4d",3,3,-2.8699013180382,3.21450971256962,6.08441103060782,"up",2.69062943541272,0.0343376383804209,"3/3","Evaluable","",NA
+"Oligodendrocyte_combined","Aerobic_respiration","A","1d",3,3,-0.33661336249906,0.787803138329449,1.12441650082851,"up",1.88909170555832,0.0839506182740046,"3/3","Evaluable","",NA
+"Oligodendrocyte_combined","Aerobic_respiration","A","4d",3,3,-0.33661336249906,0.635425600709073,0.972038963208133,"up",1.6272864477182,0.119603820276193,"3/3","Evaluable","",NA
+"Oligodendrocyte_combined","Aerobic_respiration","B","1d",3,3,-3.02956120237581,8.42153854576208,11.4510997481379,"up",3.44054871697136,0.0144478327333374,"3/3","Evaluable","",NA
+"Oligodendrocyte_combined","Aerobic_respiration","B","4d",3,3,-3.02956120237581,5.08014354048226,8.10970474285808,"up",1.78820127462977,0.102800827929364,"3/3","Evaluable","",NA
+"Microglia","ComplexI_assembly","A","1d",3,1,NA,NA,NA,NA,NA,NA,NA,"Not evaluable","fewer than 2 injured libraries with score",NA
+"Microglia","ComplexI_assembly","A","4d",3,2,-0.412990469564916,0.187905987448953,0.600896457013869,"up",1.4203004886031,0.178528617537502,"2/2","Evaluable","",NA
+"Microglia","ComplexI_assembly","B","1d",3,1,NA,NA,NA,NA,NA,NA,NA,"Not evaluable","fewer than 2 injured libraries with score",NA
+"Microglia","ComplexI_assembly","B","4d",3,2,-1.92315134296855,-1.39670734491462,0.526443998053933,"up",0.120114591260349,0.890196336523754,"1/2","Evaluable","",NA
+"Microglia","Aerobic_respiration","A","1d",3,1,NA,NA,NA,NA,NA,NA,NA,"Not evaluable","fewer than 2 injured libraries with score",NA
+"Microglia","Aerobic_respiration","A","4d",3,2,-0.524258320885578,0.634484593127817,1.15874291401339,"up",2.98898540963733,0.20457917854756,"2/2","Evaluable","",NA
+"Microglia","Aerobic_respiration","B","1d",3,1,NA,NA,NA,NA,NA,NA,NA,"Not evaluable","fewer than 2 injured libraries with score",NA
+"Microglia","Aerobic_respiration","B","4d",3,2,-1.6220609666588,4.27764855136382,5.89970951802262,"up",1.53207074887854,0.413024483293716,"2/2","Evaluable","",NA

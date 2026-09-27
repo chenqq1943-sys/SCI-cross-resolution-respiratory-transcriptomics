@@ -1,0 +1,86 @@
+Supplementary consistency audit
+Project: Cross-resolution respiratory SCI manuscript (locked manuscript v0.4 check)
+Date: 2026-09-26
+Nature: MECHANICAL consistency audit of the generated Supplementary source
+tables against the locked numbers in Manuscript v0.4 and the locked analysis
+outputs. No biological inference; no recomputation.
+
+======================================================================
+A. PASS ITEMS (all checked against locked outputs / Manuscript v0.4)
+======================================================================
+Gene programs (Table S2):
+  - ComplexI_assembly = 30 genes (GO:0032981); Aerobic_respiration = 53 genes
+    (GO:0009060); shared = 11; union = 72; mtDNA-encoded = 0 (all nuclear).
+  - Corrected snRNA availability: Complex I 29/30 (Ndufaf3 filtered);
+    Aerobic 49/53 (Mup3/Mup4/Mup5/Ucn filtered).
+  - Spatial availability: Complex I 30/30; Aerobic 52/53 (Mup4 unavailable).
+GSE5296 (Table S3):
+  - Impact-site 6/6 negative for both programs under both score methods
+    (ssGSEA and Eigengene).
+  - Impact 72 h sensitivity not evaluable (4 rows marked accordingly).
+  - All evaluable impact sensitivity comparisons retained direction (no flip).
+snRNA corrected (Table S4):
+  - 64 primary rows (4 cell types x 2 programs x 2 methods x 4 times) +
+    32 exploratory rows (1d/4d).
+  - Astrocyte / Aerobic_respiration / primary window: 4/4 up under both
+    snRNA MeanZ and snRNA Eigengene (headline result survives correction).
+  - Microglia 1d: 4 combos "Not evaluable" (all 4 score variants).
+  - One sensitivity direction flip recorded: Neurons / Complex I / Eigengene /
+    2 m (up -> down after excluding the seven low-coverage combinations).
+Astrocyte gene-level (Table S5):
+  - Positive counts of 49 genes: 7d 40, 14d 39, 1m 38, 2m 33.
+  - Ndufs4, Cox10, Ndufs1, Fxn each negative at all 4 primary times.
+Spatial (Table S6):
+  - 8 primary comparisons (2 programs x 2 methods x 7d/2m) all down,
+    3/3 biological-sample direction consistency.
+  - Leave-one-section-out: 0 reversals (8 rows).
+  - Low-UMI threshold 4,077 -> 30,548/33,941 spots; no direction reversed.
+GSE319931 (Table S7):
+  - Omnibus region P: ComplexI 0.0151 (MeanZ) / 0.0071 (Eigengene);
+    Aerobic 0.0197 (MeanZ) / 0.0183 (Eigengene). Match Manuscript v0.4.
+  - A-B Holm P: 0.0157 / 0.0089 / 0.0279 / 0.0194. Match Manuscript v0.4.
+  - No singular fit, no convergence warning in the four primary models.
+Cohort numbers (Tables S1/S8):
+  - 96 GSE5296 arrays (54 SCI + 36 sham + 6 naive).
+  - 20 snRNA libraries; 151,712 longitudinal nuclei; 115,475 four-cell-type
+    nuclei; 77 corrected pseudobulk samples.
+  - Spatial 33,941 spots / 36 sections / 9 biological samples.
+  - GSE319931 4 SCI animals x 3 regions + 4 UI (16 samples).
+
+======================================================================
+B. DISCREPANCIES (MANUSCRIPT vs SUPPLEMENT)
+======================================================================
+  NONE FOUND. All 44 mechanical checks passed (see _supplement_verify.py).
+  Where Manuscript v0.4 reports a rounded P, the Supplement carries the
+  same rounded value from the locked statistical outputs.
+
+======================================================================
+C. MISSING / UNRESOLVED FIELDS (present in Supplement, not manufactured)
+======================================================================
+  - GSE5296 sham/naive pooling: NOT ESTABLISHED (only SCI pooling documented).
+  - snRNA animal-ID <-> library-ID mapping: NOT AVAILABLE in deposited metadata.
+  - Table S2 GO term retrieval date / GO package version: NOT RECOVERABLE
+    from existing provenance (UNRESOLVED). Gene membership locked as-is.
+  - S3 impact-72h sensitivity: not evaluable (exclusion leaves insufficient group).
+  - S4 Microglia 1d: Not evaluable; no P computed.
+  - S6 CV: not used for primary inference (descriptive sheet only).
+  Any field absent from locked outputs is NA / "NOT AVAILABLE IN LOCKED OUTPUTS".
+
+======================================================================
+D. SUPERSEDED FILES DETECTED (audit only, not for inference)
+======================================================================
+  - Original target-gene-only Phase 2C outputs (GSE234774_primary_comparisons.csv,
+    GSE234774_program_scores.csv, GSE234774_pseudobulk_logCPM.csv.gz, ...):
+    SUPERSEDED / INVALID FOR INFERENCE (normalization audit: FAIL). Referenced
+    only in Table S8 audit-trail sheet; internal development comparison is
+    intentionally omitted from this release. NOT merged into any result table.
+  - GSE319931 UI-vs-region exploratory results: kept in a separate marked
+    sheet; NOT part of the primary mixed-model tables.
+
+======================================================================
+E. CONCLUSION
+======================================================================
+  Table S1-S8 are internally consistent with Manuscript v0.4 and derive
+  exclusively from the locked final/corrected outputs. All values in the
+  manuscript's Supplement can be traced back to these source tables and,
+  one level deeper, to the named derived analysis outputs in this repository.

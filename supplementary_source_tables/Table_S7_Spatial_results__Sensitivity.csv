@@ -1,0 +1,23 @@
+﻿Sensitivity,Program,Score,Comparison,Value,Result
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",ComplexI_assembly,Spatial Mean,7d vs uninjured,-0.34629,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",ComplexI_assembly,Spatial Mean,2m vs uninjured,-0.25441,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",ComplexI_assembly,Spatial Rank,7d vs uninjured,-0.04869,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",ComplexI_assembly,Spatial Rank,2m vs uninjured,-0.0392,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",Aerobic_respiration,Spatial Mean,7d vs uninjured,-0.54368,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",Aerobic_respiration,Spatial Mean,2m vs uninjured,-0.40154,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",Aerobic_respiration,Spatial Rank,7d vs uninjured,-0.043,down
+"Low-UMI exclusion (<4,077 UMIs; 30,548/33,941 spots retained)",Aerobic_respiration,Spatial Rank,2m vs uninjured,-0.03506,down
+Leave-one-section-out,ComplexI_assembly,Spatial Mean,7d vs uninjured,0,0 reversals
+Leave-one-section-out,ComplexI_assembly,Spatial Mean,2m vs uninjured,0,0 reversals
+Leave-one-section-out,ComplexI_assembly,Spatial Rank,7d vs uninjured,0,0 reversals
+Leave-one-section-out,ComplexI_assembly,Spatial Rank,2m vs uninjured,0,0 reversals
+Leave-one-section-out,Aerobic_respiration,Spatial Mean,7d vs uninjured,0,0 reversals
+Leave-one-section-out,Aerobic_respiration,Spatial Mean,2m vs uninjured,0,0 reversals
+Leave-one-section-out,Aerobic_respiration,Spatial Rank,7d vs uninjured,0,0 reversals
+Leave-one-section-out,Aerobic_respiration,Spatial Rank,2m vs uninjured,0,0 reversals
+Score-method agreement (Spatial Mean vs Spatial Rank),ComplexI_assembly,all,0.9277,0.9277,correlation corr
+Score-method agreement (Spatial Mean vs Spatial Rank),Aerobic_respiration,all,0.9465,0.9465,correlation corr
+Score-method agreement (Spatial Mean vs Spatial Rank),ComplexI_assembly,all,0.9236,0.9236,correlation corr
+Score-method agreement (Spatial Mean vs Spatial Rank),Aerobic_respiration,all,0.9169,0.9169,correlation corr
+Score-method agreement (Spatial Mean vs Spatial Rank),ComplexI_assembly,all,0.9391,0.9391,correlation corr
+Score-method agreement (Spatial Mean vs Spatial Rank),Aerobic_respiration,all,0.9339,0.9339,correlation corr

@@ -1,0 +1,8 @@
+﻿Library x celltype,n_nuclei,Total target-gene UMI,Target-gene detection fraction,Triggered criterion,Retained in primary,Excluded in sensitivity
+timecourse_1d_3__Microglia,12,216,0.859,n_nuclei<50,Retained (primary),Excluded (sensitivity)
+timecourse_4d_5__Microglia,19,320,0.873,n_nuclei<50,Retained (primary),Excluded (sensitivity)
+uninjured_uninjured_10__Microglia,7,42,0.338,n_nuclei<50;total_target_gene_UMI<200;>50% target genes undetected,Retained (primary),Excluded (sensitivity)
+timecourse_1d_8__Oligodendrocyte_combined,44,217,0.831,n_nuclei<50,Retained (primary),Excluded (sensitivity)
+timecourse_4d_6__Oligodendrocyte_combined,13,600,0.958,n_nuclei<50,Retained (primary),Excluded (sensitivity)
+timecourse_1d_3__Neurons,2,175,0.761,n_nuclei<50;total_target_gene_UMI<200,Retained (primary),Excluded (sensitivity)
+timecourse_4d_6__Neurons,29,1948,0.958,n_nuclei<50,Retained (primary),Excluded (sensitivity)

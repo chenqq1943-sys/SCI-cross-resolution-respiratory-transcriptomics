@@ -1,0 +1,9 @@
+﻿Program,Score,Comparison,n biological samples/group(ctrl),n biological samples/group(inj),Control mean,Injured mean,Delta,Direction,Direction consistency,Effect size,Nominal P
+ComplexI_assembly,Spatial Mean,7d vs uninjured,3,3,1.09319,0.76304,-0.33015,down,3/3,-1.5468,0.14527
+ComplexI_assembly,Spatial Mean,2m vs uninjured,3,3,1.09319,0.84383,-0.24936,down,3/3,-1.2149,0.23264
+ComplexI_assembly,Spatial Rank,7d vs uninjured,3,3,0.68187,0.63865,-0.04322,down,3/3,-1.0259,0.303
+ComplexI_assembly,Spatial Rank,2m vs uninjured,3,3,0.68187,0.64603,-0.03584,down,3/3,-0.8723,0.3743
+Aerobic_respiration,Spatial Mean,7d vs uninjured,3,3,2.26791,1.74022,-0.52769,down,3/3,-1.3614,0.18439
+Aerobic_respiration,Spatial Mean,2m vs uninjured,3,3,2.26791,1.84915,-0.41876,down,3/3,-1.0964,0.26557
+Aerobic_respiration,Spatial Rank,7d vs uninjured,3,3,0.80759,0.77411,-0.03348,down,3/3,-0.6721,0.47108
+Aerobic_respiration,Spatial Rank,2m vs uninjured,3,3,0.80759,0.77765,-0.02994,down,3/3,-0.6091,0.51201

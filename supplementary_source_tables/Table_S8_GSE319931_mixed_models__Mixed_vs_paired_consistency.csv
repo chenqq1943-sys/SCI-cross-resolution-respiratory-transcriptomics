@@ -1,0 +1,13 @@
+﻿Program,Score,Contrast,Mixed-model direction,Paired direction,Direction consistent,Mixed Holm P,Original paired P
+ComplexI_assembly,GSE319931 MeanZ,E-A,Epicenter<Above,Epicenter<Above,TRUE,0.13842,0.20531
+ComplexI_assembly,GSE319931 MeanZ,E-B,Epicenter>Below,Epicenter>Below,TRUE,0.13842,0.02924
+ComplexI_assembly,GSE319931 MeanZ,A-B,Above>Below,Above>Below,TRUE,0.01572,0.01881
+ComplexI_assembly,GSE319931 Eigengene,E-A,Epicenter<Above,Epicenter<Above,TRUE,0.0218,0.05794
+ComplexI_assembly,GSE319931 Eigengene,E-B,Epicenter>Below,Epicenter>Below,TRUE,0.28308,0.1181
+ComplexI_assembly,GSE319931 Eigengene,A-B,Above>Below,Above>Below,TRUE,0.00887,0.02261
+Aerobic_respiration,GSE319931 MeanZ,E-A,Epicenter<Above,Epicenter<Above,TRUE,0.53252,0.66243
+Aerobic_respiration,GSE319931 MeanZ,E-B,Epicenter>Below,Epicenter>Below,TRUE,0.04179,0.01824
+Aerobic_respiration,GSE319931 MeanZ,A-B,Above>Below,Above>Below,TRUE,0.02786,0.01963
+Aerobic_respiration,GSE319931 Eigengene,E-A,Epicenter<Above,Epicenter<Above,TRUE,0.13135,0.25952
+Aerobic_respiration,GSE319931 Eigengene,E-B,Epicenter>Below,Epicenter>Below,TRUE,0.13135,0.02242
+Aerobic_respiration,GSE319931 Eigengene,A-B,Above>Below,Above>Below,TRUE,0.01937,0.02566

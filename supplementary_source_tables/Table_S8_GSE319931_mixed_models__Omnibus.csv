@@ -1,0 +1,5 @@
+﻿Program,Score,Model formula,Omnibus F,df1,df2,Omnibus region P,Singular fit,Convergence warning,Notes
+ComplexI_assembly,GSE319931 MeanZ,score ~ region + (1|animal),9.1368,2,6,0.0151,FALSE,FALSE,n_obs=12; n_animals=4
+ComplexI_assembly,GSE319931 Eigengene,score ~ region + (1|animal),12.5927,2,6,0.00712,FALSE,FALSE,n_obs=12; n_animals=4
+Aerobic_respiration,GSE319931 MeanZ,score ~ region + (1|animal),8.1048,2,6,0.01972,FALSE,FALSE,n_obs=12; n_animals=4
+Aerobic_respiration,GSE319931 Eigengene,score ~ region + (1|animal),8.3757,2,6,0.01834,FALSE,FALSE,n_obs=12; n_animals=4

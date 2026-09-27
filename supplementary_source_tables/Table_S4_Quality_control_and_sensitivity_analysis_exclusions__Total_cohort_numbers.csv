@@ -1,0 +1,11 @@
+﻿Item,Value
+GSE5296 arrays,96 (54 SCI + 36 sham + 6 naive)
+GSE234774 snRNA libraries,"20 (UI3, 1d3, 4d3, 7d2, 14d3, 1m3, 2m3)"
+GSE234774 longitudinal nuclei,"151,712"
+GSE234774 analyzed four-cell-type nuclei,"115,475"
+snRNA pseudobulk samples,77 (80 - 3 absent Microglia combos)
+snRNA gene availability,Complex I 29/30; Aerobic 49/53
+Spatial gene availability,Complex I 30/30; Aerobic 52/53
+Spatial spots / sections / biological samples,"33,941 spots / 36 sections / 9 biological samples"
+GSE319931 samples,4 SCI animals x 3 regions + 4 UI = 16
+Astrocyte aerobic gene counts (7d/14d/1m/2m),40/39/38/33 positive (of 49)

@@ -1,0 +1,5 @@
+# Scope of audit
+
+During internal workflow verification, an earlier development-stage normalization implementation was superseded before manuscript inference. All reported single-nucleus results derive exclusively from the finalized full-transcriptome pseudobulk normalization workflow included in this repository. The superseded script and biological outputs are not offered as an alternative pipeline here.
+
+`Supplementary_consistency_audit_locked.txt` preserves the locked **44/44 mechanical manuscript–Supplement checks passed** conclusion; this is not independent statistical validation. `public_release_security_check.txt` records scanning, corrections, and remaining review items without exposing matched secret values. `Repository_Release_QA.txt` records static file/path checks; no biological script was executed. `release_manifest.csv` contains file-level SHA-256 checksums; the manifest itself cannot contain its own verifiable hash without self-reference, so its own row uses `SELF-REFERENTIAL`.

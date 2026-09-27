@@ -1,0 +1,7 @@
+Repository Release v1 public-release security check (static)
+Files scanned: 113
+Coverage: text/code/CSV/SVG, decompressed CSV.GZ, XLSX internal XML, PDF metadata, and TIFF metadata.
+Issues found in staged package: 0
+Issues corrected in curated copy: private absolute paths removed from scripts and Figure Source Map; local usernames and paths removed from the locked consistency-audit copy; irrelevant Sirt6 target row/column removed from the public respiratory-only gene-list projection.
+Unresolved issues: author confirmation of contributor metadata, source-redistribution/licensing scope, and final human review of figure/workbook contents before public upload.
+No matched values or secrets are printed in this report. This scan cannot prove absence of all sensitive content in opaque binary formats or unseen images.

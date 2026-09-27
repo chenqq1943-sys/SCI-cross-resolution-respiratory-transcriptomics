@@ -1,0 +1,73 @@
+﻿Program(s),GO term ID,Gene symbol,Nuclear/mtDNA encoded,Available GSE5296,Available snRNA,Available spatial,Available GSE319931
+Aerobic_respiration,GO:0009060,Adsl,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Cat,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Fxn,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Mdh2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Mup3,Nuclear,Yes,No(Mup3/Mup4/Mup5/Ucn filtered),Yes,Yes
+Aerobic_respiration,GO:0009060,Mup4,Nuclear,Yes,No(Mup3/Mup4/Mup5/Ucn filtered),No(Mup4 unavailable),Yes
+Aerobic_respiration,GO:0009060,Mup5,Nuclear,Yes,No(Mup3/Mup4/Mup5/Ucn filtered),Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufv1,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ucn,Nuclear,Yes,No(Mup3/Mup4/Mup5/Ucn filtered),Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa1,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Sirt3,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb5,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa3,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa9,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb9,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufc1,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa12,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa7,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb3,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb7,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb8,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa10,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Mtfr1,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Sdhb,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb4,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa5,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Pdhb,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb10,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufa8,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufab1,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Cox10,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Mtfr2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufv2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Pank2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Mtfr1l,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufv3,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb11,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Mfn2,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ndufb6,Nuclear,Yes,Yes,Yes,Yes
+Aerobic_respiration,GO:0009060,Ahdc1,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ecsit,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Tmem126a,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Tmem186,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf3,Nuclear,Yes,No(Ndufaf3 filtered),Yes,Yes
+ComplexI_assembly,GO:0032981,Bcs1l,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Timm21,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Tmem126b,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf4,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf5,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf1,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Tmem70,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf7,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf2,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Nubpl,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Timmdc1,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Ndufaf6,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Lyrm2,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Acad9,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly,GO:0032981,Foxred1,Nuclear,Yes,Yes,Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs4,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufa6,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufa13,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufc2,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs3,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Oxa1l,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs7,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs8,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs2,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs1,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes
+ComplexI_assembly/Aerobic_respiration,GO:0032981 / GO:0009060,Ndufs5,Nuclear,Yes,Yes;Yes,Yes;Yes,Yes

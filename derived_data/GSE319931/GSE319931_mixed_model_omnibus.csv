@@ -1,0 +1,5 @@
+"program","method","model_used","formula","region_omnibus_F","df_num","df_den","region_omnibus_rawP","singular_fit","convergence_warning","model_warning","n_obs","n_animals"
+"ComplexI_assembly","A","linear_mixed_effects","score ~ region + (1 | animal)",9.13684092184697,2,6.000000002138,0.0151024283807798,FALSE,FALSE,"",12,4
+"ComplexI_assembly","B","linear_mixed_effects","score ~ region + (1 | animal)",12.5927075397858,2,6.00000001145487,0.00712195396804952,FALSE,FALSE,"",12,4
+"Aerobic_respiration","A","linear_mixed_effects","score ~ region + (1 | animal)",8.10475010594277,2,6.00000001708928,0.0197168436349764,FALSE,FALSE,"",12,4
+"Aerobic_respiration","B","linear_mixed_effects","score ~ region + (1 | animal)",8.37574870479783,2,6.00000002433297,0.0183410329797202,FALSE,FALSE,"",12,4

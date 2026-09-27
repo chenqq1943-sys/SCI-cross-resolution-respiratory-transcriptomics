@@ -1,0 +1,5 @@
+Dataset,GEO accession,Modality,Role,Raw data public?,Raw data included in repository?,Retrieval note
+GSE5296,GSE5296,Whole-tissue microarray,Tissue-level temporal and regional respiratory program analysis,Yes,No,Retrieve CEL archive and GPL1261 annotation from GEO; use released sample annotations
+GSE234774 snRNA,GSE234774,Single-nucleus RNA-seq,Cell-type-resolved library-level pseudobulk analysis,Yes,No,Retrieve deposited snRNA matrix features barcodes and metadata from GEO
+GSE234774 spatial,GSE234774,2D spatial transcriptomics,Spatial respiratory program analysis at biological-sample level,Yes,No,Retrieve deposited spatial matrix features barcodes and metadata from GEO
+GSE319931,GSE319931,Bulk RNA-seq,Chronic repeated-region analysis,Yes,No,Retrieve gene-count source from GEO; use released animal-region design

@@ -1,0 +1,1 @@
+Historical Phase 2C development/audit material. The target-gene-only normalization workflow was superseded and is invalid for manuscript inference. It is retained only as an audit record; use the final full-transcriptome workflow described in the root README.

@@ -1,0 +1,97 @@
+﻿sample_id,title,region,region_label,treatment,treatment_label,time_after_injury,group,description
+GSM119833,SCIM-A_S_0h-1MP,A,rostral(头侧),S,naive,0h,naive_rostral_0h,A naive murine spinal cord was dissected into a sample that corresponded to the region rostral to the site of impact in injured or sham mice.  The sample was then subjected to gene expression profiling.
+GSM119834,SCIM-A_S_0h-2MP,A,rostral(头侧),S,naive,0h,naive_rostral_0h,A naive murine spinal cord was dissected into a sample that corresponded to the region rostral to the site of impact in injured or sham mice.  The sample was then subjected to gene expression profiling.
+GSM119786,SCIM-B_S_0h-2MP,B,caudal(尾侧),S,naive,0h,naive_caudal_0h,A naive murine spinal cord was dissected into a sample that corresponded to the region caudal to the site of impact in injured or sham mice.  The sample was then subjected to gene expression profiling.
+GSM119849,SCIM-B_S_0h-1MP,B,caudal(尾侧),S,naive,0h,naive_caudal_0h,A naive murine spinal cord was dissected into a sample that corresponded to the region caudal  to the site of impact in injured or sham mice.  The sample was then subjected to gene expression profiling.
+GSM119776,SCIM-I_S_0h-1MP,I,impact(损伤中心),S,naive,0h,naive_impact_0h,A naive murine spinal cord was dissected into a sample that corresponded to the site of impact in injured or sham mice.  The sample was then subjected to gene expression profiling.
+GSM119842,SCIM-I_S_0h-2MP,I,impact(损伤中心),S,naive,0h,naive_impact_0h,A naive murine spinal cord was dissected into a sample that corresponded to the site of impact in injured or sham mice.  The sample was then subjected to gene expression profiling.
+GSM119812,SCIM-A_S_0.5h-1MP,A,rostral(头侧),S,sham,0.5h,sham_rostral_0.5h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 0.5 hours after sham-injury (laminectomy only).
+GSM119844,SCIM-A_S_0.5h-2MP,A,rostral(头侧),S,sham,0.5h,sham_rostral_0.5h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 0.5  h after sham-injury (laminectomy only).
+GSM119770,SCIM-B_S_0.5h-2MP,B,caudal(尾侧),S,sham,0.5h,sham_caudal_0.5h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 0.5  h after sham-injury (laminectomy only).
+GSM119824,SCIM-B_S_0.5h-1MP,B,caudal(尾侧),S,sham,0.5h,sham_caudal_0.5h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 0.5 h after sham-injury (laminectomy only).
+GSM119827,SCIM-I_S_0.5h-1MP,I,impact(损伤中心),S,sham,0.5h,sham_impact_0.5h,Murine spinal cord was subject to gene expression profiling 0.5 hours after laminectomy
+GSM119854,SCIM-I_S_0.5h-2MP,I,impact(损伤中心),S,sham,0.5h,sham_impact_0.5h,Murine spinal cord was subject to gene expression profiling 0.5 hours after laminectomy
+GSM119781,SCIM-A_S_24h-1MP,A,rostral(头侧),S,sham,24h,sham_rostral_24h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 24 h after sham-injury (laminectomy only).
+GSM119845,SCIM-A_S_24h-2MP,A,rostral(头侧),S,sham,24h,sham_rostral_24h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 24 h after sham-injury (laminectomy only).
+GSM119838,SCIM-B_S_24h-1MP,B,caudal(尾侧),S,sham,24h,sham_caudal_24h,Murine spinal cord caudal to the site of impact subjected to gene expression profiling 24 h after sham-injury (laminectomy only).
+GSM119850,SCIM-B_S_24h-2MP,B,caudal(尾侧),S,sham,24h,sham_caudal_24h,Murine spinal cord caudal to the site of impact subjected to gene expression profiling 24 h after sham-injury (laminectomy only).
+GSM119807,SCIM-I_S_24h-2MP,I,impact(损伤中心),S,sham,24h,sham_impact_24h,Murine spinal cord from the site of impact subjected to gene expression profiling 24 h after sham-injury (laminectomy only).
+GSM119828,SCIM-I_S_24h-1MP,I,impact(损伤中心),S,sham,24h,sham_impact_24h,Murine spinal cord was subject to gene expression profiles 24h after laminectomy only--but no injury.
+GSM119813,SCIM-A_S_28d-2MP,A,rostral(头侧),S,sham,28d,sham_rostral_28d,Murine spinal cord from the region rostal to the site of impact was subjected to gene expression profiling 28days  after sham-injury (laminectomy only).
+GSM119820,SCIM-A_S_28d-1MP,A,rostral(头侧),S,sham,28d,sham_rostral_28d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 28 days after sham-injury (laminectomy only).
+GSM119816,SCIM-B_S_28d-1MP,B,caudal(尾侧),S,sham,28d,sham_caudal_28d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 28 days after sham-injury (laminectomy only).
+GSM119839,SCIM-B_S_28d-2MP,B,caudal(尾侧),S,sham,28d,sham_caudal_28d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 28 days after sham-injury (laminectomy only).
+GSM119808,SCIM-I_S_28d-1MP,I,impact(损伤中心),S,sham,28d,sham_impact_28d,Murine spinal cord was subject to gene expression profiling 28 days after laminectomy
+GSM119829,SCIM-I_S_28d-2MP,I,impact(损伤中心),S,sham,28d,sham_impact_28d,Murine spinal cord was subject to gene expression profiling at 28 days after laminectomy
+GSM119782,SCIM-A_S_4h-2MP,A,rostral(头侧),S,sham,4h,sham_rostral_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 h after sham-injury (laminectomy only).
+GSM119796,SCIM-A_S_4h-1MP,A,rostral(头侧),S,sham,4h,sham_rostral_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 h after sham-injury (laminectomy only).
+GSM119825,SCIM-B_S_4h-2MP,B,caudal(尾侧),S,sham,4h,sham_caudal_4h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 4 h after sham-injury (laminectomy only).
+GSM119851,SCIM-B_S_4h-1MP,B,caudal(尾侧),S,sham,4h,sham_caudal_4h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 4 h after sham-injury (laminectomy only).
+GSM119777,SCIM-I_S_4h-2MP,I,impact(损伤中心),S,sham,4h,sham_impact_4h,Murine spinal cord from site of impact subjected to expression profiling 4 h after sham-injury (laminectomy only).
+GSM119792,SCIM-I_S_4h-1MP,I,impact(损伤中心),S,sham,4h,sham_impact_4h,Murine spinal cord site of impact subjected to gene expression profiling 4h after sham-injury (laminectomy only).
+GSM119797,SCIM-A_S_72h-2MP,A,rostral(头侧),S,sham,72h,sham_rostral_72h,Murine spinal cord from the region rostral  to the site of impact was subjected to gene expression profiling 72 h after sham-injury (laminectomy only).
+GSM119801,SCIM-A_S_72h-1MP,A,rostral(头侧),S,sham,72h,sham_rostral_72h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 72 h after sham-injury (laminectomy only).
+GSM119771,SCIM-B_S_72h-2MP,B,caudal(尾侧),S,sham,72h,sham_caudal_72h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 72 h after sham-injury (laminectomy only).
+GSM119803,SCIM-B_S_72h-1MP,B,caudal(尾侧),S,sham,72h,sham_caudal_72h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 72 h after sham-injury (laminectomy only).
+GSM119793,SCIM-I_S_72h-2MP,I,impact(损伤中心),S,sham,72h,sham_impact_72h,Murine spinal cord from the site of impact was subjected to gene expression profiling 72 h after sham-injury (laminectomy only).
+GSM119809,SCIM-I_S_72h-1MP,I,impact(损伤中心),S,sham,72h,sham_impact_72h,Murine spinal cord from the site of impact was subjected to gene expression profiling 72 h after sham-injury (laminectomy only).
+GSM119767,SCIM-A_S_7d-1MP,A,rostral(头侧),S,sham,7d,sham_rostral_7d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 7 days  after sham-injury (laminectomy only).
+GSM119802,SCIM-A_S_7d-2MP,A,rostral(头侧),S,sham,7d,sham_rostral_7d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 7 days after sham-injury (laminectomy only).
+GSM119787,SCIM-B_S_7d-2MP,B,caudal(尾侧),S,sham,7d,sham_caudal_7d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 7 days after sham-injury (laminectomy only).
+GSM119852,SCIM-B_S_7d-1MP,B,caudal(尾侧),S,sham,7d,sham_caudal_7d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 7 days after sham-injury (laminectomy only).
+GSM119778,SCIM-I_S_7d-1MP,I,impact(损伤中心),S,sham,7d,sham_impact_7d,Murine spinal cord was subject to gene expression profiling yd after laminectomy only--without injury.
+GSM119810,SCIM-I_S_7d-2MP,I,impact(损伤中心),S,sham,7d,sham_impact_7d,Murine spinal cord from the site of impact was subjected to gene expression profiling 7 days after sham-injury (laminectomy only).
+GSM118664,SCIM-A_I_0.5h-1MP,A,rostral(头侧),I,SCI,0.5h,SCI_rostral_0.5h,Murine spinal cord from the region above the site of impact was subjected to gene expression profiling 0.5 hours after moderate injury.
+GSM118672,SCIM-A_I_0.5h-2MP,A,rostral(头侧),I,SCI,0.5h,SCI_rostral_0.5h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 0.5  hours after moderate injury.
+GSM119764,SCIM-A_I_0.5h-3MP,A,rostral(头侧),I,SCI,0.5h,SCI_rostral_0.5h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 0.5 hours after moderate injury.
+GSM119783,SCIM-B_I_0.5h-1MP,B,caudal(尾侧),I,SCI,0.5h,SCI_caudal_0.5h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 0.5 hours after moderate injury.
+GSM119846,SCIM-B_I_0.5h-2MP,B,caudal(尾侧),I,SCI,0.5h,SCI_caudal_0.5h,Murine spinal cord from the region rostral  to the site of impact was subjected to gene expression profiling 0.5  hours after moderate injury.
+GSM119855,SCIM-B_I_0.5h-3MP,B,caudal(尾侧),I,SCI,0.5h,SCI_caudal_0.5h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 0.5 hours after moderate injury.
+GSM119804,SCIM-I_I_0.5h-2MP,I,impact(损伤中心),I,SCI,0.5h,SCI_impact_0.5h,Murine spinal cord was subject to gene expression profiling 0.5 hours after injury
+GSM119805,SCIM-I_I_0.5h-3MP,I,impact(损伤中心),I,SCI,0.5h,SCI_impact_0.5h,Murine spinal cord from the site of impact subjected to gene expression profiling 30 minutes after moderate injury.
+GSM119840,SCIM-I_I_0.5h-1MP,I,impact(损伤中心),I,SCI,0.5h,SCI_impact_0.5h,Murine spinal cord was subject to gene expression profiling 30 minutes after injury
+GSM119779,SCIM-A_I_24h-3MP,A,rostral(头侧),I,SCI,24h,SCI_rostral_24h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 24 hours after moderate injury.
+GSM119811,SCIM-A_I_24h-1MP,A,rostral(头侧),I,SCI,24h,SCI_rostral_24h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 24 hours after moderate injury.
+GSM120018,SCIM-A_I_24h-2MP,A,rostral(头侧),I,SCI,24h,SCI_rostral_24h,Murine spinal cord was subject to gene expression profiles 24h after injury in the rostral site
+GSM119768,SCIM-B_I_24h-3MP,B,caudal(尾侧),I,SCI,24h,SCI_caudal_24h,Murine spinal cord from the region below the site of impact was subjected to gene expression profiling 24 hours after moderate injury.
+GSM119821,SCIM-B_I_24h-2MP,B,caudal(尾侧),I,SCI,24h,SCI_caudal_24h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 24 hours after moderate injury.
+GSM119835,SCIM-B_I_24h-1MP,B,caudal(尾侧),I,SCI,24h,SCI_caudal_24h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 24 hours after moderate injury.
+GSM119772,SCIM-I_I_24h-3MP,I,impact(损伤中心),I,SCI,24h,SCI_impact_24h,Murine spinal cord from the site of impact subjected to gene expression profiling 24 h after moderate injury.
+GSM119798,SCIM-I_I_24h-1MP,I,impact(损伤中心),I,SCI,24h,SCI_impact_24h,Murine spinal cord was injured and subject to gene expression profiling 24h after injury
+GSM119806,SCIM-I_I_24h-2MP,I,impact(损伤中心),I,SCI,24h,SCI_impact_24h,Murine spinal cord was subject o gene expression profiling 24h after injury
+GSM119765,SCIM-A_I_28d-3MP,A,rostral(头侧),I,SCI,28d,SCI_rostral_28d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 28 days after moderate injury.
+GSM119794,SCIM-A_I_28d-2MP,A,rostral(头侧),I,SCI,28d,SCI_rostral_28d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 28 days after moderate injury.
+GSM119830,SCIM-A_I_28d-1MP,A,rostral(头侧),I,SCI,28d,SCI_rostral_28d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 28 days after moderate injury.
+GSM119814,SCIM-B_I_28d-2MP,B,caudal(尾侧),I,SCI,28d,SCI_caudal_28d,Murine spinal cord from the region below the site of impact was subjected to gene expression profiling 28 days after moderate injury.
+GSM119836,SCIM-B_I_28d-1MP,B,caudal(尾侧),I,SCI,28d,SCI_caudal_28d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 28 days after moderate injury.
+GSM119847,SCIM-B_I_28d-3MP,B,caudal(尾侧),I,SCI,28d,SCI_caudal_28d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 28 days after moderate injury.
+GSM119773,SCIM-I_I_28d-2MP,I,impact(损伤中心),I,SCI,28d,SCI_impact_28d,Murine spinal cord was subject to gene expression profiling 28 days after injury
+GSM119788,SCIM-I_I_28d-1MP,I,impact(损伤中心),I,SCI,28d,SCI_impact_28d,Murine spinal cord was subject to gene expression profiling 28d after injury
+GSM119789,SCIM-I_I_28d-3MP,I,impact(损伤中心),I,SCI,28d,SCI_impact_28d,Murine spinal cord from the site of impact was subjected to gene expression profiling 28  days after moderate injury.
+GSM119766,SCIM-A_I_4h-3MP,A,rostral(头侧),I,SCI,4h,SCI_rostral_4h,Murine spinal cord from the region above the site of impact was subjected to gene expression profiling 4 hours after moderate injury.
+GSM119780,SCIM-A_I_4h-1MP,A,rostral(头侧),I,SCI,4h,SCI_rostral_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 hours after moderate injury.
+GSM119800,SCIM-A_I_4h-2MP,A,rostral(头侧),I,SCI,4h,SCI_rostral_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 hours after moderate injury.
+GSM119784,SCIM-B_I_4h-2MP,B,caudal(尾侧),I,SCI,4h,SCI_caudal_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 hours after moderate injury.
+GSM119785,SCIM-B_I_4h-3MP,B,caudal(尾侧),I,SCI,4h,SCI_caudal_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 hours after moderate injury.
+GSM119822,SCIM-B_I_4h-1MP,B,caudal(尾侧),I,SCI,4h,SCI_caudal_4h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 4 hours after moderate injury.
+GSM119799,SCIM-I_I_4h-3MP,I,impact(损伤中心),I,SCI,4h,SCI_impact_4h,Murine spinal cord from the site of impact subjected to gene expression profiling 4h after moderate injury.
+GSM119826,SCIM-I_I_4h-2MP,I,impact(损伤中心),I,SCI,4h,SCI_impact_4h,Murine spinal cord from the site of impact subjected to gene expression profiling 4h after moderate injury.
+GSM119853,SCIM-I_I_4h-1MP,I,impact(损伤中心),I,SCI,4h,SCI_impact_4h,Murine spinal cord from the site of impact subjected to expression profiling 4h after moderate injury.
+GSM119795,SCIM-A_I_72h-3MP,A,rostral(头侧),I,SCI,72h,SCI_rostral_72h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 72 hours after moderate injury.
+GSM119818,SCIM-A_I_72h-1MP,A,rostral(头侧),I,SCI,72h,SCI_rostral_72h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 72 hours after moderate injury.
+GSM119819,SCIM-A_I_72h-2MP,A,rostral(头侧),I,SCI,72h,SCI_rostral_72h,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 72 hours after moderate injury.
+GSM119815,SCIM-B_I_72h-3MP,B,caudal(尾侧),I,SCI,72h,SCI_caudal_72h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 72 hours after moderate injury.
+GSM119837,SCIM-B_I_72h-2MP,B,caudal(尾侧),I,SCI,72h,SCI_caudal_72h,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 72 h after moderate injury.
+GSM119856,SCIM-B_I_72h-1MP,B,caudal(尾侧),I,SCI,72h,SCI_caudal_72h,Murine spinal cord from the region below the site of impact was subjected to gene expression profiling 72 hours after moderate injury.
+GSM119774,SCIM-I_I_72h-2MP,I,impact(损伤中心),I,SCI,72h,SCI_impact_72h,Murine spinal cord from the site of impact was subjected to gene expression profiling 72 h after moderate injury.
+GSM119790,SCIM-I_I_72h-3MP,I,impact(损伤中心),I,SCI,72h,SCI_impact_72h,Murine spinal cord from the site of impact subjected to gene expression profiling 72 h after moderate injury.
+GSM119817,SCIM-I_I_72h-1MP,I,impact(损伤中心),I,SCI,72h,SCI_impact_72h,Murine spinal cord from the site of impact was subjected to gene expression profiling 72 h after moderate injury.
+GSM119831,SCIM-A_I_7d-1MP,A,rostral(头侧),I,SCI,7d,SCI_rostral_7d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119832,SCIM-A_I_7d-3MP,A,rostral(头侧),I,SCI,7d,SCI_rostral_7d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119843,SCIM-A_I_7d-2MP,A,rostral(头侧),I,SCI,7d,SCI_rostral_7d,Murine spinal cord from the region rostral to the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119769,SCIM-B_I_7d-2MP,B,caudal(尾侧),I,SCI,7d,SCI_caudal_7d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119823,SCIM-B_I_7d-1MP,B,caudal(尾侧),I,SCI,7d,SCI_caudal_7d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 7 days  after moderate injury.
+GSM119848,SCIM-B_I_7d-3MP,B,caudal(尾侧),I,SCI,7d,SCI_caudal_7d,Murine spinal cord from the region caudal to the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119775,SCIM-I_I_7d-2MP,I,impact(损伤中心),I,SCI,7d,SCI_impact_7d,Murine spinal cord from the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119791,SCIM-I_I_7d-3MP,I,impact(损伤中心),I,SCI,7d,SCI_impact_7d,Murine spinal cord from the site of impact was subjected to gene expression profiling 7 days after moderate injury.
+GSM119841,SCIM-I_I_7d-1MP,I,impact(损伤中心),I,SCI,7d,SCI_impact_7d,Murine spinal cord from the site of impact was subjected to gene expression profiling 7 days after moderate injury.

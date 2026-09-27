@@ -1,0 +1,9 @@
+program,method,comparison,n_control,n_injured,control_mean,injured_mean,delta,direction,effect_size,nominal_p,replicate_consistency
+ComplexI_assembly,A,7d,3,3,1.09319,0.76304,-0.33015,down,-1.5468,0.14527,3/3
+ComplexI_assembly,A,2m,3,3,1.09319,0.84383,-0.24936,down,-1.2149,0.23264,3/3
+ComplexI_assembly,B,7d,3,3,0.68187,0.63865,-0.04322,down,-1.0259,0.303,3/3
+ComplexI_assembly,B,2m,3,3,0.68187,0.64603,-0.03584,down,-0.8723,0.3743,3/3
+Aerobic_respiration,A,7d,3,3,2.26791,1.74022,-0.52769,down,-1.3614,0.18439,3/3
+Aerobic_respiration,A,2m,3,3,2.26791,1.84915,-0.41876,down,-1.0964,0.26557,3/3
+Aerobic_respiration,B,7d,3,3,0.80759,0.77411,-0.03348,down,-0.6721,0.47108,3/3
+Aerobic_respiration,B,2m,3,3,0.80759,0.77765,-0.02994,down,-0.6091,0.51201,3/3

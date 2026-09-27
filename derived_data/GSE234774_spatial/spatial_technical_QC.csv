@@ -1,0 +1,8 @@
+check,status,detail
+matrix dims,PASS,25966x33941 nnz=131899916
+rows==features,PASS,True
+cols==barcodes,PASS,True
+cols==meta,PASS,True
+meta order==barcodes,PASS,True
+colsum vs meta nCount mismatch,PASS,0/33941
+pre-specified low-UMI threshold,INFO,10th pct total UMI = 4077.0

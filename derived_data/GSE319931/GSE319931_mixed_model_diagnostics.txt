@@ -1,0 +1,103 @@
+GSE319931 chronic SCI regional models; 4 biological animals, 3 repeated regions per animal.
+Only SCI included. Four prespecified program x method models; no animal or score excluded.
+Primary: score ~ region + (1 | animal); lmerTest Satterthwaite omnibus; emmeans contrasts.
+Three raw contrast P values receive Holm correction within each program x method.
+The 95% confidence limits are unadjusted; Holm correction applies to P values only.
+With n=4, residual normality cannot be established by Shapiro testing.
+Leave-one-animal-out fits below are influence diagnostics, not replacement analyses.
+
+--- ComplexI_assembly / A ---
+model_used: linear_mixed_effects
+singular_fit: FALSE
+warnings: none
+residuals: range -0.437156 to 0.390153; SD 0.267141; max |residual/sigma| 1.262
+max_scaled_residual_animal: 4
+RM-ANOVA cross-check: F(2,6)=9.13684, P=0.015102428
+leave-one-animal-out contrast directions:  animal_removed contrast   estimate       direction direction_flips  omnibus_P
+              1      E-A -0.4113365 Epicenter<Above           FALSE 0.09685599
+              1      E-B  0.5326320 Epicenter>Below           FALSE 0.09685599
+              1      A-B  0.9439685     Above>Below           FALSE 0.09685599
+              2      E-A -0.6205501 Epicenter<Above           FALSE 0.06048381
+              2      E-B  0.5297877 Epicenter>Below           FALSE 0.06048381
+              2      A-B  1.1503378     Above>Below           FALSE 0.06048381
+              3      E-A -0.3152779 Epicenter<Above           FALSE 0.06027066
+              3      E-B  0.5783294 Epicenter>Below           FALSE 0.06027066
+              3      A-B  0.8936073     Above>Below           FALSE 0.06027066
+              4      E-A -0.8167473 Epicenter<Above           FALSE 0.01086893
+              4      E-B  0.3814668 Epicenter>Below           FALSE 0.01086893
+              4      A-B  1.1982142     Above>Below           FALSE 0.01086893
+any direction flip: FALSE
+direction-flip animal/contrast: none
+Omnibus P can vary materially after removing one of only four animals; no animal was removed from primary results.
+
+--- ComplexI_assembly / B ---
+model_used: linear_mixed_effects
+singular_fit: FALSE
+warnings: none
+residuals: range -2.2768 to 2.19884; SD 1.62737; max |residual/sigma| 1.081
+max_scaled_residual_animal: 3
+RM-ANOVA cross-check: F(2,6)=12.5927, P=0.0071219541
+leave-one-animal-out contrast directions:  animal_removed contrast  estimate       direction direction_flips  omnibus_P
+              1      E-A -5.037432 Epicenter<Above           FALSE 0.06094472
+              1      E-B  1.982995 Epicenter>Below           FALSE 0.06094472
+              1      A-B  7.020428     Above>Below           FALSE 0.06094472
+              2      E-A -5.847742 Epicenter<Above           FALSE 0.02722245
+              2      E-B  2.297938 Epicenter>Below           FALSE 0.02722245
+              2      A-B  8.145680     Above>Below           FALSE 0.02722245
+              3      E-A -3.968334 Epicenter<Above           FALSE 0.02403763
+              3      E-B  1.711169 Epicenter>Below           FALSE 0.02403763
+              3      A-B  5.679503     Above>Below           FALSE 0.02403763
+              4      E-A -6.807411 Epicenter<Above           FALSE 0.01465575
+              4      E-B  1.032510 Epicenter>Below           FALSE 0.01465575
+              4      A-B  7.839920     Above>Below           FALSE 0.01465575
+any direction flip: FALSE
+direction-flip animal/contrast: none
+Omnibus P can vary materially after removing one of only four animals; no animal was removed from primary results.
+
+--- Aerobic_respiration / A ---
+model_used: linear_mixed_effects
+singular_fit: FALSE
+warnings: none
+residuals: range -0.581996 to 0.472388; SD 0.308824; max |residual/sigma| 1.469
+max_scaled_residual_animal: 3
+RM-ANOVA cross-check: F(2,6)=8.10475, P=0.019716844
+leave-one-animal-out contrast directions:  animal_removed contrast    estimate       direction direction_flips  omnibus_P
+              1      E-A -0.05069876 Epicenter<Above           FALSE 0.10691263
+              1      E-B  0.88810819 Epicenter>Below           FALSE 0.10691263
+              1      A-B  0.93880695     Above>Below           FALSE 0.10691263
+              2      E-A -0.32297099 Epicenter<Above           FALSE 0.06281910
+              2      E-B  0.88044526 Epicenter>Below           FALSE 0.06281910
+              2      A-B  1.20341625     Above>Below           FALSE 0.06281910
+              3      E-A  0.09864565 Epicenter>Above            TRUE 0.03928159
+              3      E-B  1.00693454 Epicenter>Below           FALSE 0.03928159
+              3      A-B  0.90828889     Above>Below           FALSE 0.03928159
+              4      E-A -0.46674662 Epicenter<Above           FALSE 0.03269219
+              4      E-B  0.70692288 Epicenter>Below           FALSE 0.03269219
+              4      A-B  1.17366950     Above>Below           FALSE 0.03269219
+any direction flip: TRUE
+direction-flip animal/contrast: 3/E-A
+Omnibus P can vary materially after removing one of only four animals; no animal was removed from primary results.
+
+--- Aerobic_respiration / B ---
+model_used: linear_mixed_effects
+singular_fit: FALSE
+warnings: none
+residuals: range -3.78374 to 3.64929; SD 2.48212; max |residual/sigma| 1.179
+max_scaled_residual_animal: 3
+RM-ANOVA cross-check: F(2,6)=8.37575, P=0.018341033
+leave-one-animal-out contrast directions:  animal_removed contrast  estimate       direction direction_flips  omnibus_P
+              1      E-A -3.151913 Epicenter<Above           FALSE 0.10720100
+              1      E-B  5.452257 Epicenter>Below           FALSE 0.10720100
+              1      A-B  8.604171     Above>Below           FALSE 0.10720100
+              2      E-A -5.057215 Epicenter<Above           FALSE 0.05457233
+              2      E-B  5.518054 Epicenter>Below           FALSE 0.05457233
+              2      A-B 10.575269     Above>Below           FALSE 0.05457233
+              3      E-A -1.978198 Epicenter<Above           FALSE 0.05938028
+              3      E-B  5.500540 Epicenter>Below           FALSE 0.05938028
+              3      A-B  7.478738     Above>Below           FALSE 0.05938028
+              4      E-A -6.501606 Epicenter<Above           FALSE 0.02231042
+              4      E-B  3.928591 Epicenter>Below           FALSE 0.02231042
+              4      A-B 10.430198     Above>Below           FALSE 0.02231042
+any direction flip: FALSE
+direction-flip animal/contrast: none
+Omnibus P can vary materially after removing one of only four animals; no animal was removed from primary results.

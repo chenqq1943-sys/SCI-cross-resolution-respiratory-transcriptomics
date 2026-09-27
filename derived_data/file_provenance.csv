@@ -1,0 +1,26 @@
+Relative path,Source dataset,Generating script,Statistical unit,Direct manuscript or Supplement use?,Regenerable from public raw?,Role
+GSE5296/GSE5296_RMA_mito_modules_time_space.csv,GSE5296,scripts/01_GSE5296/02_probe_collapse_and_programs.R,Array,Yes,Yes,Locked program scores and SCI-sham time-region results
+GSE5296/GSE5296_RMA_impact_replication_summary.csv,GSE5296,scripts/01_GSE5296/02_probe_collapse_and_programs.R,Array,Yes,Yes,Impact-replication summary
+GSE5296/GSE5296_RMA_QC_sensitivity.csv,GSE5296,scripts/01_GSE5296/02_probe_collapse_and_programs.R,Array,Yes,Yes,Predeclared QC sensitivity
+GSE5296/GSE5296_RMA_QC_summary.csv,GSE5296,scripts/01_GSE5296/01_rma_qc.R,Array,Yes,Yes,Array QC and Table S8 source
+GSE234774_snRNA/corrected_program_scores.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Library by cell type,Yes,Yes,Corrected locked program scores
+GSE234774_snRNA/corrected_primary_results.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Library by cell type,Yes,Yes,Primary 7d 14d 1m 2m contrasts
+GSE234774_snRNA/corrected_sensitivity.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Library by cell type,Yes,Yes,Sensitivity comparisons
+GSE234774_snRNA/corrected_exploratory_1d_4d.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Library by cell type,Supplement only,Yes,Marked exploratory early-time results
+GSE234774_snRNA/astrocyte_aerobic_gene_driver_audit.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Gene within astrocyte library summaries,Yes,Yes,Gene-level contribution audit
+GSE234774_snRNA/astrocyte_aerobic_gene_driver_summary.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Gene within time group,Yes,Yes,Audit direction summary
+GSE234774_snRNA/corrected_target_gene_availability.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Gene by cell type,Supplement only,Yes,Post-filter gene availability
+GSE234774_snRNA/normalization_QC.csv,GSE234774 snRNA,scripts/02_GSE234774_snRNA/02_normalize_score_compare.R,Library by cell type,Supplement only,Yes,Full-transcriptome normalization QC
+GSE234774_spatial/spatial_program_scores.csv.gz,GSE234774 spatial,scripts/03_GSE234774_spatial/01_spatial_score_compare.py,Spot within section and biological sample,Yes,Yes,Plotting source scores not independent inferential replicates
+GSE234774_spatial/replicate_level_summary.csv,GSE234774 spatial,scripts/03_GSE234774_spatial/01_spatial_score_compare.py,Biological sample,Yes,Yes,Primary spatial replicate summaries
+GSE234774_spatial/primary_spatial_comparisons.csv,GSE234774 spatial,scripts/03_GSE234774_spatial/01_spatial_score_compare.py,Biological sample,Yes,Yes,Primary comparisons
+GSE234774_spatial/spatial_sensitivity.csv,GSE234774 spatial,scripts/03_GSE234774_spatial/01_spatial_score_compare.py,Biological sample,Yes,Yes,Low-UMI and section sensitivity
+GSE234774_spatial/spatial_technical_QC.csv,GSE234774 spatial,scripts/03_GSE234774_spatial/01_spatial_score_compare.py,Spot and section technical metrics,Supplement only,Yes,Technical QC
+GSE234774_spatial/spatial_target_gene_mapping.csv,GSE234774 spatial,scripts/03_GSE234774_spatial/01_spatial_score_compare.py,Gene,Supplement only,Yes,Feature availability
+GSE319931/GSE319931_program_scores.csv,GSE319931,scripts/04_GSE319931/01_score_programs.R,Animal-region repeated measure,Yes,Yes,Locked regional scores
+GSE319931/GSE319931_paired_regional.csv,GSE319931,scripts/04_GSE319931/01_score_programs.R,Animal paired regions,Yes,Yes,Paired regional cross-check
+GSE319931/GSE319931_mixed_model_omnibus.csv,GSE319931,scripts/04_GSE319931/02_mixed_model.R,Animal repeated regions,Yes,Yes,Four omnibus region tests
+GSE319931/GSE319931_mixed_model_pairwise.csv,GSE319931,scripts/04_GSE319931/02_mixed_model.R,Animal repeated regions,Yes,Yes,Predefined Holm-adjusted contrasts
+GSE319931/GSE319931_mixed_vs_paired_consistency.csv,GSE319931,scripts/04_GSE319931/02_mixed_model.R,Animal repeated regions,Yes,Yes,Direction consistency table
+GSE319931/GSE319931_mixed_model_diagnostics.txt,GSE319931,scripts/04_GSE319931/02_mixed_model.R,Model by program and method,Yes,Yes,Singularity convergence residual and influence notes
+GSE319931/GSE319931_secondary_vs_UI.csv,GSE319931,scripts/04_GSE319931/01_score_programs.R,Animal,Supplement exploratory only,Yes,UI comparison not part of regional mixed model

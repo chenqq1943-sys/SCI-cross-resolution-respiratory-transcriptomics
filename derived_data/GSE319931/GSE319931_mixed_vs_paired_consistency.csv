@@ -1,0 +1,13 @@
+"program","method","contrast","mixed_model_direction","paired_direction","direction_consistent","mixed_Holm_P","paired_P"
+"ComplexI_assembly","A","E-A","Epicenter<Above","Epicenter<Above",TRUE,0.138417512332783,0.20531261016971
+"ComplexI_assembly","A","E-B","Epicenter>Below","Epicenter>Below",TRUE,0.138417512332783,0.029243732379243
+"ComplexI_assembly","A","A-B","Above>Below","Above>Below",TRUE,0.0157207573696579,0.0188134668721611
+"ComplexI_assembly","B","E-A","Epicenter<Above","Epicenter<Above",TRUE,0.0217966787778143,0.0579396682112009
+"ComplexI_assembly","B","E-B","Epicenter>Below","Epicenter>Below",TRUE,0.283079188140843,0.118097788854107
+"ComplexI_assembly","B","A-B","Above>Below","Above>Below",TRUE,0.00887460750615866,0.0226106604406327
+"Aerobic_respiration","A","E-A","Epicenter<Above","Epicenter<Above",TRUE,0.532519725899815,0.662432765915358
+"Aerobic_respiration","A","E-B","Epicenter>Below","Epicenter>Below",TRUE,0.0417930070092725,0.0182379427752936
+"Aerobic_respiration","A","A-B","Above>Below","Above>Below",TRUE,0.0278572532193375,0.0196310267713677
+"Aerobic_respiration","B","E-A","Epicenter<Above","Epicenter<Above",TRUE,0.131347557170733,0.259515551414259
+"Aerobic_respiration","B","E-B","Epicenter>Below","Epicenter>Below",TRUE,0.131347557170733,0.0224192406211439
+"Aerobic_respiration","B","A-B","Above>Below","Above>Below",TRUE,0.0193737960419955,0.025656549125597
